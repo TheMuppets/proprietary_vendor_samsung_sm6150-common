@@ -874,11 +874,11 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.fm@1.0 \
     TimeService \
     audiosphere \
-    android.hardware.gnss@2.1-service-qti \
-    android.hardware.health@2.1-samsung \
-    android.hardware.neuralnetworks@1.3-service-qti-hta \
-    android.hardware.neuralnetworks@1.3-service-qti \
-    manifest_android.hardware.drm@1.3-service.widevine \
-    vendor.samsung.hardware.thermal@1.0-manifest \
+    android.hardware.gnss@2.1-service-qti.xml \
+    android.hardware.health@2.1-samsung.xml \
+    android.hardware.neuralnetworks@1.3-service-qti-hta.xml \
+    android.hardware.neuralnetworks@1.3-service-qti.xml \
+    manifest_android.hardware.drm@1.3-service.widevine.xml \
+    vendor.samsung.hardware.thermal@1.0-manifest.xml \
     cdsprpcd \
     hvdcp_opti
